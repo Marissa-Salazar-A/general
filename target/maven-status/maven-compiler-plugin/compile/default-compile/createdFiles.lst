@@ -1,0 +1,7 @@
+com\classicmodels2\repositories\ICRUD.class
+com\classicmodels2\repositories\ClientRepository.class
+com\classicmodels2\services\ClientService.class
+com\classicmodels2\models\Client.class
+com\classicmodels2\controllers\IndexController.class
+com\classicmodels2\Classicmodels2Application.class
+com\classicmodels2\utils\UrlConstants.class
